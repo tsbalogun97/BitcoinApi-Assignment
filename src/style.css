@@ -1,0 +1,22 @@
+/* .nav{
+  border: solid black;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 15px;
+  font-size: 2em;
+} */
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: purple;
+  color: white;
+  padding: 15px;
+  font-size: 20px;
+}
+
+.nav a {
+  color: blue;
+  text-decoration: none;
+}
